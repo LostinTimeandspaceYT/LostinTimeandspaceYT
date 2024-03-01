@@ -1,16 +1,19 @@
-### Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on: <br>- [Dice Kracken](https://github.com/LostinTimeandspaceYT/DiceKracken/tree/master/v0.2)<br>- Personal Blog written in Ruby/Rails<br>- NeoVim config for RP2040 C/C++ development with [Pico-SDK](https://github.com/raspberrypi/pico-sdk)<br><br><br>🌱 I’m currently learning:<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣾⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⣿⣿⣷⣄⠀<br>⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⠟⠛⠋⠁⠀⠀⠈⣻⣿⣿⣷⣄⠀⠀⠈⢿⣿⡆<br>⠀⠀⠀⠀⠀⣠⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⢀⣿⣿⠛⠻⣿⣷⣦⡀⢸⣿⡇<br>⠀⠀⠀⢠⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⡟⠀⠀⠈⠻⣿⣿⣾⣿⡇<br>⠀⠀⣠⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣶⣶⣶⣶⣶⣶⣿⣿⣿⡇<br>⠀⣰⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⡛⠛⠛⠛⠛⢻⣿⣿⣿⡇<br>⢸⣿⣿⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⠟⠁⢹⣿⣷⠀⠀⠀⣠⣿⣿⢻⣿⡇<br>⢸⣿⣿⣧⣤⣤⣴⣶⣶⣶⣿⣿⣿⣅⣀⠀⠀⢿⣿⣆⢀⣴⣿⡿⠁⢸⣿⡇<br>⢸⣿⣿⣿⣿⡿⠛⠛⠛⣿⣿⠟⠻⢿⣿⣿⣷⣮⣿⣿⣿⣿⠏⠀⠀⢸⣿⡇<br>⢸⣿⡇⠻⣿⣷⡀⠀⢠⣿⣿⠀⠀⠀⠀⠈⢙⣿⣿⣿⣿⣧⡀⠀⠀⢸⣿⡇<br>⢸⣿⡇⠀⠹⣿⣷⡀⣾⣿⡇⠀⠀⠀⣠⣴⣿⣿⠟⠉⠻⣿⣿⣦⡀⢸⣿⡇<br>⠸⣿⣿⣄⠀⠹⣿⣿⣿⣿⣀⣤⣴⣾⣿⡿⠋⠀⠀⠀⠀⠈⠻⣿⣿⣾⣿⡇<br>⠀⠘⢿⣿⣿⣶⣾⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣶⣶⣶⣾⣿⣿⣿⡇<br>⠀⠀⠀⠈⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠁<br>
 
-<!--
-**LostinTimeandspaceYT/LostinTimeandspaceYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/twAzPsg) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/TheGreatOldOnesGaming) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@TheGreatOldOnesGaming) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LostinTimeandspaceYT&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LostinTimeandspaceYT&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LostinTimeandspaceYT&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/lostintimeandspace) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/TheGreatOldOnesGaming) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
