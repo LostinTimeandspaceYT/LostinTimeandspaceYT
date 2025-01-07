@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nate and I'm an electronics engineer from New England</h2>
+<h2 align="center">Hi 👋! My name is Nate and I'm an embedded systems engineer from New England</h2>
 
 ###
 
