@@ -46,17 +46,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rubyonrails/CC0000" height="30" alt="rails logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="30" alt="qt logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/lua/2C2D72" height="30" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/markdown/000000" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/zig/F7A41D" height="30" alt="zig logo"  />
 </div>
 
 ###
@@ -71,9 +63,6 @@
   </a>
   <a href="discordapp.com/users/nate_goog" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nathan-winslow-573646339/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.twitch.tv/greatoldonesgaming" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
