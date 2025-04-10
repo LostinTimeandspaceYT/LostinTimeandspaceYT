@@ -84,6 +84,5 @@
 
 ###
 
-<p align="left">Currently Working on:<br><br>-Picoshell: POSIX shell for RP2 based boards<br><br>- Pico Drivers: Drivers written for RP2 based boards<br> <br>- RPyG: Electronic Character Sheet written in (Micro)python<br><br>- Website written in Ruby/Rails</p>
-
-###
+<p align="left">Currently Working on:<br> <br>- Pythulhu: TTRPG HID written in CircuitPython<br><br>
+</p>
