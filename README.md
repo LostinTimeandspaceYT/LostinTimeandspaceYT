@@ -19,7 +19,14 @@ Embedded systems engineer from New England.
 | Python | - |
 | ZephyrRTOS | - |
 
+## 🏆 Achievements 🏆
+
+<img width="125" height="125" alt="zephyr-technical-contributor-sm" src="https://github.com/user-attachments/assets/6ae99f58-61c1-4fa2-9923-a4a06fa74988" />
+
 ## 💻 GitHub Stats 💻
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostinTimeandspaceYT&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="left" />
+
 <img src="https://github-readme-stats.vercel.app/api?username=LostinTimeandspaceYT&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" align="right" /> 
+
+
